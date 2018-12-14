@@ -3288,4 +3288,21 @@ export const persons = [
       country: "United States of America"
     }
   },
+  {
+    id: 247,
+    name: "Harry Ermawan",
+    img: "https://avatars1.githubusercontent.com/u/36907562?s=400&u=8fdd44b69baf5600d50a6ea6d5e883c4f31151c7&v=4",
+    links: {
+      website: "Coming Soon",
+      linkedin: "https://www.linkedin.com/in/harry-ermawan/",
+      github: "https://github.com/MaliciousHex"
+    },
+    jobTitle: "Fullstack Web Developer",
+    location: {
+      city: "WEST JAKARTA",
+      state: "DKI JAKARTA",
+      country: "INDONESIA"
+    }
+  },
+  
 ];
